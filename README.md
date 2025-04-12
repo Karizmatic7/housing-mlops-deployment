@@ -25,7 +25,7 @@ cd housing-mlops-deployment
 pip install gradio pandas scikit-learn joblib
 ```
 
-3. Run the web app
+### 3. Run the web app
 
 ```bash
 python app.py
