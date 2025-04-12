@@ -17,3 +17,16 @@ To run this project, you'll need Python installed on your local machine. Follow 
 ```bash
 git clone https://github.com/<your-username>/housing-mlops-deployment.git
 cd housing-mlops-deployment
+```
+
+### 2. Install required libraries
+
+```bash
+pip install gradio pandas scikit-learn joblib
+```
+
+3. Run the web app
+
+```bash
+python app.py
+```
